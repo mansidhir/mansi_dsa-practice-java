@@ -8,6 +8,12 @@ import java.util.*;
 import java.util.stream.Collectors;
 import java.util.stream.IntStream;
 
+class Solution {
+    void hello(){
+
+    }
+}
+
 public class Main1 {
     public static String outputFile = "Output.txt";
     public static String inputFile = "Input.txt";
@@ -22,10 +28,8 @@ public class Main1 {
         System.setOut(o);
 
 
-        int [] stones = new int[10];
-        IntStream.range(0, 10)
-                .boxed()
-                .collect(Collectors.toMap(i -> stones[i], i -> i));
+        System.out.println(2+2);
+
 
     }
 
