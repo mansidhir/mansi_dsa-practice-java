@@ -1,4 +1,4 @@
-Problem 7: [Star pattern 6](
+Problem 7: [Star pattern 7](https://www.youtube.com/watch?v=O0iAjT27nZQ&list=PL7ersPsTyYt2prN058WfA_j3ElgwD1bht&index=7)
 
 ```java
 class Solution{
